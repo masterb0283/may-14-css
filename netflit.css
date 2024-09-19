@@ -1,0 +1,11 @@
+#one{color: red;}
+body{height: 100%;
+width: 100%;
+background-image: url(./images/netflix.jpeg);}
+form{background-color: black;
+opacity: 0.70;
+width: 20%;
+height: 80%;
+
+color: white;}
+#sign{background-color: red;color: white;}
